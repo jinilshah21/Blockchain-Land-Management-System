@@ -21,7 +21,7 @@ $ npm install --save sha256
 
 2.Run the following command to install prompt package:
 ```
-$ npm install --save prompts
+$ npm install --save prompt-sync
 ```
 
 # Working of Every Module:
